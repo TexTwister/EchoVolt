@@ -86,8 +86,9 @@
      * Imported Adafruit sensor parts to the file using Fritzing Parts GitHub repository
      * Mentally mapped out the Bottom-Up header placement on the header of the Pi
      * Used Fritzing software to map out and construct a schematic for wiring between the Raspberry Pi Zero 2 W and the acoustic and thermal sensors
-   * Fritzing Source File Location:  [cs_406_echovolt_bread_v1.0.fzz](hardware_schematics/cs_406_echovolt_bread_v1.0.fzz)
-   * Image of Fritzing Schematic: [echovolt_v1.0_image.png](hardware_schematics/echovolt_v1.0_image.png)
+
+### Hardware Schematic
+![EchoVolt Breadboard Layout](hardware_schematics/echovolt_v1.0_image.png)
 
 ## Relational Database Mapping
 * ER Diagram Development:
